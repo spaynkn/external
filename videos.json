@@ -1,0 +1,12 @@
+[
+  {
+    "title": "サンプル動画1",
+    "duration": "00:03:15",
+    "url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "title": "サンプル動画2",
+    "duration": "00:04:20",
+    "url": "https://www.youtube.com/embed/9bZkp7q19f0"
+  }
+]
