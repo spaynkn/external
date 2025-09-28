@@ -2,7 +2,7 @@ name: Update videos.json every 5 minutes
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # 5分おき (UTC)
+    - cron: '*/10 * * * *'  # 10分おき (UTC)
   workflow_dispatch:       # 手動でも起動可能
 
 jobs:
