@@ -3,54 +3,63 @@
     "title": "サンプル動画1",
     "duration": "00:03:15",
     "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "start": 1000
   },
   {
     "title": "サンプル動画2",
     "duration": "00:04:20",
     "url": "https://www.youtube.com/embed/9bZkp7q19f0",
-    "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/hqdefault.jpg"
+    "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/hqdefault.jpg",
+    "start": 2000
   },
   {
     "title": "サンプル動画3",
     "duration": "00:05:10",
     "url": "https://www.youtube.com/embed/3JZ_D3ELwOQ",
-    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/hqdefault.jpg"
+    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/hqdefault.jpg",
+    "start": 3000
   },
   {
     "title": "サンプル動画4",
     "duration": "00:03:16",
     "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "start": 1000
   },
   {
     "title": "サンプル動画5",
     "duration": "00:04:20",
     "url": "https://www.youtube.com/embed/9bZkp7q19f0",
-    "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/hqdefault.jpg"
+    "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/hqdefault.jpg",
+    "start": 1000
   },
   {
     "title": "サンプル動画6",
     "duration": "00:05:10",
     "url": "https://www.youtube.com/embed/3JZ_D3ELwOQ",
-    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/hqdefault.jpg"
+    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/hqdefault.jpg",
+    "start": 1000
   },
   {
     "title": "サンプル動画7",
     "duration": "00:03:15",
     "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
-    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "start": 1000
   },
   {
     "title": "サンプル動画8",
     "duration": "00:04:20",
     "url": "https://www.youtube.com/embed/9bZkp7q19f0",
-    "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/hqdefault.jpg"
+    "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/hqdefault.jpg",
+    "start": 1000
   },
   {
     "title": "サンプル動画9",
     "duration": "00:05:10",
     "url": "https://www.youtube.com/embed/3JZ_D3ELwOQ",
-    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/hqdefault.jpg"
+    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/hqdefault.jpg",
+    "start": 1000
   }
 ]
