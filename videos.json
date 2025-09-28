@@ -2,11 +2,19 @@
   {
     "title": "サンプル動画1",
     "duration": "00:03:15",
-    "url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    "url": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg"
   },
   {
     "title": "サンプル動画2",
     "duration": "00:04:20",
-    "url": "https://www.youtube.com/embed/9bZkp7q19f0"
+    "url": "https://www.youtube.com/embed/9bZkp7q19f0",
+    "thumbnail": "https://img.youtube.com/vi/9bZkp7q19f0/hqdefault.jpg"
+  },
+  {
+    "title": "サンプル動画3",
+    "duration": "00:05:10",
+    "url": "https://www.youtube.com/embed/3JZ_D3ELwOQ",
+    "thumbnail": "https://img.youtube.com/vi/3JZ_D3ELwOQ/hqdefault.jpg"
   }
 ]
